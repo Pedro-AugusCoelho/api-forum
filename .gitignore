@@ -3,6 +3,12 @@
 /node_modules
 /build
 
+# keys
+private_key.txt
+private_key-base64.txt
+public_key.txt
+public_key-base64.txt
+
 # Logs
 logs
 *.log
